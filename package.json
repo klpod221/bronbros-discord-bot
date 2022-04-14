@@ -1,0 +1,24 @@
+{
+  "name": "bronbros-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ~/src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klpod221/bronbros-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klpod221/bronbros-discord-bot/issues"
+  },
+  "homepage": "https://github.com/klpod221/bronbros-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
